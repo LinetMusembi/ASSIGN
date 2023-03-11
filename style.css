@@ -1,0 +1,172 @@
+@media screen and (max-width:2000px) {
+    body{
+        background-color: bisque;
+    }
+
+ #list{
+    display: flex;
+    list-style: none;
+    padding-right:30%;
+    gap: 4%;
+    
+
+
+    }
+    .heading{
+        display: flex;
+        gap: 10%;
+        margin-bottom: 10%;
+    }
+    .paragraph{
+        font-size: 20px;
+        /* font-weight: bold; */
+        /* font-size: large; */
+    
+    }
+    #sandra{
+        margin: 0%;
+        
+    }
+    .perfect{
+    margin-left: 50%;
+    margin-top: 30%;
+    height:300px;
+   
+    }
+    body{
+        font-size: x-large;
+    }
+    #button1{
+        padding: 20px;
+            border-radius: 15px;
+            width: 80%;
+            border-style: none;
+            background-color: black;
+            color: antiquewhite; 
+             
+       
+    }
+    
+    .products{
+        text-align: center;
+    }
+    .furniture{
+        display: flex;
+        
+        
+    
+    }
+    #chair1{
+        width:15%;
+        height: 45%;
+    
+        
+    }
+    #chair2{
+        width: 25%;
+        height: 45%;
+    }
+    #bed{
+        width: 25%;
+        height: 45%;
+    }
+    #table{
+        width: 25%;
+        height: 50%;
+    }
+    .price{
+        display: flex;
+        gap: 20%;
+    }
+    .projects{
+        margin-top: 10%;
+    
+    }
+    .project{
+        width: 45%;
+        position: relative;
+    }
+    .one{
+        width: 45%;
+    }
+    #proj1{
+        position: absolute;
+        bottom: -110%;
+        left: 10px;
+        font-size: 40px;
+        left: 20%;
+
+    }
+    #proj2{
+        position: absolute; 
+        color:black;
+        left: 70%;
+        bottom: -100%;
+        font-size: 40px;
+
+       
+        
+    }
+    .discount{
+        /* text-align: center; */
+    }
+    .names{
+        gap:20%;
+        display: flex;
+        margin: 50px;
+        text-align: center;
+    }
+    .discounts{
+        text-align: center;
+        background-color: black;
+        color: aliceblue;
+    }
+    #button{
+            padding: 30px;
+            width: 30%;
+            border-radius: 10px;
+            border-style: none;
+            background-color: black;
+            color: antiquewhite;
+            font-size: large; 
+             
+        }
+        #many{
+            /* height: 30%; */
+            width:35%;
+
+        }
+        #comfort{
+            height: 80%;
+            width:60%;
+        }
+        .image{
+            display: flex;
+            position: relative;
+        }
+        #coft1{
+           position: absolute;
+           
+
+        }
+        .magazine{
+            margin:5%;
+            display:flex;
+            gap:20%;
+        }
+        .catalog{
+            height: 100%;
+            width: 80%;
+        
+        }
+        .all{
+        display: flex;
+        gap: 5%;
+        background-color: black;
+        color: aliceblue;
+        }
+
+
+    
+    
+}
